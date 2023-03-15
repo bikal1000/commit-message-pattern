@@ -3,6 +3,7 @@
 As a member of our development team, I want us to use a structured and informative commit message convention to help us keep track of changes and work more effectively together. That's why I suggest we use a commit message pattern that includes a commit type, scope, subject, and Jira ticket number.
 
 ## How to Use the Commit Message Pattern
+`<Type>(<Scope>): <Subject> #<TicketNumber>`
 
 Here's how we can use this commit message pattern in our workflow:
 
