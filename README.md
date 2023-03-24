@@ -12,7 +12,7 @@ Here's how we can use this commit message pattern in our workflow:
     - Change: for changes in existing functionality
     - Deprecate: for soon-to-be removed features
     - Remove: for now removed features
-    - Fixed: for any bug fixes
+    - Fix: for any bug fixes
     - Security: in case of vulnerabilities
 
 2. Specify a scope: The scope should indicate which part of the application you are modifying or adding. This could be a specific module, component, or feature. 
